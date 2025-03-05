@@ -7,6 +7,7 @@ A Sales Dashboard visually tracks revenue, conversions, pipeline stages, and tea
 <a href="https://github.com/meena-kushwaha/Sales_Dashboard_using_Excel/blob/main/Final%20Project.xlsx">Dataset</a>
 
 #Dashboard Interaction 
+
 <a href="https://github.com/meena-kushwaha/Sales_Dashboard_using_Excel/blob/main/Dashboard%20screenshot.PNG">View Dashboard </a>
 
 ##Dashboard
