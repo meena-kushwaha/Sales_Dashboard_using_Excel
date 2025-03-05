@@ -27,6 +27,17 @@ The Sales Dashboard is a data visualization tool designed for supermarkets and r
 
 5. Highest Sales Type: Direct Sales (61%)
 
+# Project Objectives
+  The Sales Dashboard aims to:
+✅ Provide real-time sales monitoring for businesses.
+
+✅ Improve decision-making by offering detailed sales analytics.
+
+✅ Identify top-selling products and categories to optimize inventory.
+
+✅ Analyze customer payment preferences for better financial planning.
+
+✅ Track profitability trends and enhance business strategies.
 
 ## Dashboard Interaction 
 
@@ -35,7 +46,18 @@ The Sales Dashboard is a data visualization tool designed for supermarkets and r
 ## Dashboard
 ![Dashboard screenshot](https://github.com/user-attachments/assets/d3b4e28b-2adc-456f-88bb-a8129b198792)
 
+# How to Use the Dashboard
+1️⃣ Select a Year (2021 or 2022) to compare sales performance over time.
 
+2️⃣ Choose a Month to analyze monthly trends and identify sales spikes.
 
-The Sales Dashboard provides real-time insights into revenue, customer behavior, and team performance. It helps businesses track sales trends, optimize strategies, and improve decision-making. Key benefits include enhanced sales monitoring, better forecasting, and increased efficiency. By leveraging data-driven insights, businesses can boost profitability, streamline operations, and drive sustainable growth in a competitive market. 
+3️⃣ Review Key Metrics like Total Sales, Total Profit, and Profit Percentage.
 
+4️⃣ Analyze Sales Performance by day, product, and category.
+
+5️⃣ Check Sales Type & Payment Preferences to optimize business strategy.
+
+6️⃣ Use Insights to improve inventory planning and marketing efforts.
+
+# Technologies Used
+✅ Microsoft Excel
