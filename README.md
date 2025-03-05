@@ -29,6 +29,7 @@ The Sales Dashboard is a data visualization tool designed for supermarkets and r
 
 # Project Objectives
   The Sales Dashboard aims to:
+  
 ✅ Provide real-time sales monitoring for businesses.
 
 ✅ Improve decision-making by offering detailed sales analytics.
