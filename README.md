@@ -18,14 +18,18 @@ A Sales Dashboard visually tracks revenue, conversions, pipeline stages, and tea
 🔹 1. Revenue & Sales Performance
 📈 Total Sales Revenue & Growth Rate tracking.
 🏆 Top-Selling Products & Regional Sales Distribution analysis.
+
 🔹 2. Customer Insights & Behavior
 👥 New vs. Returning Customers analysis.
 💰 Customer Lifetime Value (CLV) & Acquisition Cost (CAC) tracking.
+
 🔹 3. Sales Funnel & Pipeline Analysis
 🎯 Conversion Rate, Win/Loss Ratio & Sales Cycle Duration evaluation.
+
 🔹 4. Sales Team Performance
 👨‍💼 Top Sales Representatives & Response Time Tracking.
 📊 Sales Target vs. Achievements Analysis.
+
 🔹 5. Forecasting & Market Trends
 🔮 Projected Revenue, Seasonal Trends & Market Demand Analysis.
 
