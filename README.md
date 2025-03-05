@@ -6,11 +6,11 @@ A Sales Dashboard visually tracks revenue, conversions, pipeline stages, and tea
 ## Dataset Used
 <a href="https://github.com/meena-kushwaha/Sales_Dashboard_using_Excel/blob/main/Final%20Project.xlsx">Dataset</a>
 
-##Dashboard Interaction 
+## Dashboard Interaction 
 
 <a href="https://github.com/meena-kushwaha/Sales_Dashboard_using_Excel/blob/main/Dashboard%20screenshot.PNG">View Dashboard </a>
 
-##Dashboard
+## Dashboard
 ![Dashboard screenshot](https://github.com/user-attachments/assets/d3b4e28b-2adc-456f-88bb-a8129b198792)
 
 ## Project Insight
@@ -33,7 +33,7 @@ A Sales Dashboard visually tracks revenue, conversions, pipeline stages, and tea
 🔹 5. Forecasting & Market Trends
 🔮 Projected Revenue, Seasonal Trends & Market Demand Analysis.
 
- ##Final Conclusion
+ ## Final Conclusion
  
 The Sales Dashboard provides real-time insights into revenue, customer behavior, and team performance. It helps businesses track sales trends, optimize strategies, and improve decision-making. Key benefits include enhanced sales monitoring, better forecasting, and increased efficiency. By leveraging data-driven insights, businesses can boost profitability, streamline operations, and drive sustainable growth in a competitive market. 
 
